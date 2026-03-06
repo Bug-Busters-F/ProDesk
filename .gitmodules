@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Bug-Busters-F/ProDesk-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Bug-Busters-F/ProDesk-appMobile.git
