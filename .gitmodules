@@ -1,6 +1,8 @@
 [submodule "backend"]
-	path = backend
-	url = https://github.com/Bug-Busters-F/ProDesk-backend.git
+    path = backend
+    url = https://github.com/Bug-Busters-F/ProDesk-backend.git
+    branch = main
 [submodule "mobile"]
-	path = mobile
-	url = https://github.com/Bug-Busters-F/ProDesk-appMobile.git
+    path = mobile
+    url = https://github.com/Bug-Busters-F/ProDesk-appMobile.git
+    branch = main
