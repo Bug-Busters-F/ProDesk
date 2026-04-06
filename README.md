@@ -66,6 +66,10 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 
 
 
+https://github.com/user-attachments/assets/45f3c7ed-a5e3-4b8c-a623-e67eac1bc4fd
+
+
+
 
 ### Manual de Instalação
 Acesse o manual de instalação seguindo os passos pelo arquivo [CONTRIBUTING.md](./CONTRIBUTING.md)
