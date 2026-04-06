@@ -32,7 +32,7 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 | Sprint            | Previsão   | Status    |
 | ----------------- | ---------- | --------- |
 | Kick Off          | 03/03/2025 | Concluído |
-| 01                | 05/04/2025 | A fazer   |
+| 01                | 05/04/2025 | Concluído |
 | 02                | 03/05/2025 | A fazer   |
 | 03                | 31/05/2025 | A fazer   |
 | Feira de Soluções | 18/06/2025 | A fazer   |
@@ -41,11 +41,11 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 
 | Rank | Prioridade | User Story                                                                                                                                                                                      | Sprint | Status |
 | :--: | :--------: | :---- | :----: | :----: |
-|  1   |   Alta    |   Como administrador, quero cadastrar novos usuários no sistema.                                                   |   1    |        |
-|  2   |   Alta    |   Como cliente, quero abrir um chamado de atendimento para solicitar suporte.                                      |   1    |        |
-|  3   |   Alta    |   Como cliente, quero realizar uma triagem inicial automatizada para ter meu chamado direcionado ao setor adequado.|   1    |        |
-|  4   |    Alta   |   Como cliente, quero conversar com o atendente via chat dentro do chamado para explicar melhor meu problema.      |   1    |        |
-|  5   |   Alta    |   Como atendente, quero responder mensagens dos clientes no chat para dar suporte ao problema relatado.            |   1    |        |
+|  1   |   Alta    |   Como administrador, quero cadastrar novos usuários no sistema.                                                   |   1    |   ✅   |
+|  2   |   Alta    |   Como cliente, quero abrir um chamado de atendimento para solicitar suporte.                                      |   1    |   ✅   |
+|  3   |   Alta    |   Como cliente, quero realizar uma triagem inicial automatizada para ter meu chamado direcionado ao setor adequado.|   1    |   ✅   |
+|  4   |    Alta   |   Como cliente, quero conversar com o atendente via chat dentro do chamado para explicar melhor meu problema.      |   1    |   ✅   |
+|  5   |   Alta    |   Como atendente, quero responder mensagens dos clientes no chat para dar suporte ao problema relatado.            |   1    |   ✅   |
 |  6   |   Média   |   Como cliente, quero acessar uma página de FAQ para tentar resolver dúvidas simples sem precisar abrir um chamado.|   2    |        |
 |  7   |   Média   |   Como cliente, quero acompanhar o status dos meus chamados para saber o andamento do atendimento.                 |   2    |        |
 |  8   |    Alta   |   Como atendente, quero escalonar um chamado para outro nível de suporte quando necessário.                        |   2    |        |
@@ -58,7 +58,18 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 
 ### Roadmap
 
+![Roadmap](docs/img/roadmap.png)
+
 ---
+
+### Sprint 1
+
+
+
+https://github.com/user-attachments/assets/45f3c7ed-a5e3-4b8c-a623-e67eac1bc4fd
+
+
+
 
 ### Manual de Instalação
 Acesse o manual de instalação seguindo os passos pelo arquivo [CONTRIBUTING.md](./CONTRIBUTING.md)
