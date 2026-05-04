@@ -19,7 +19,7 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
   - [Documentos](#documentos)
     - [Tecnologias Utilizadas](#tecnologias-utilizadas)
     - [Cronograma e Sprints](#cronograma-e-sprints)
-    - [Cronograma e Sprints](#Roadmap)
+    - [Roadmap](#roadmap)
   - [Manual de Instalação](#manual-de-instalação)
   - [Autores](#autores)
 
@@ -33,7 +33,7 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 | ----------------- | ---------- | --------- |
 | Kick Off          | 03/03/2025 | Concluído |
 | 01                | 05/04/2025 | Concluído |
-| 02                | 03/05/2025 | A fazer   |
+| 02                | 03/05/2025 | Concluído |
 | 03                | 31/05/2025 | A fazer   |
 | Feira de Soluções | 18/06/2025 | A fazer   |
 
@@ -46,10 +46,10 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 |  3   |   Alta    |   Como cliente, quero realizar uma triagem inicial automatizada para ter meu chamado direcionado ao setor adequado.|   1    |   ✅   |
 |  4   |    Alta   |   Como cliente, quero conversar com o atendente via chat dentro do chamado para explicar melhor meu problema.      |   1    |   ✅   |
 |  5   |   Alta    |   Como atendente, quero responder mensagens dos clientes no chat para dar suporte ao problema relatado.            |   1    |   ✅   |
-|  6   |   Média   |   Como cliente, quero acessar uma página de FAQ para tentar resolver dúvidas simples sem precisar abrir um chamado.|   2    |        |
-|  7   |   Média   |   Como cliente, quero acompanhar o status dos meus chamados para saber o andamento do atendimento.                 |   2    |        |
-|  8   |    Alta   |   Como atendente, quero escalonar um chamado para outro nível de suporte quando necessário.                        |   2    |        |
-|  9   |   Média   |   Como atendente, quero visualizar os chamados atribuídos ao meu setor para poder atender os clientes.             |   2    |        |
+|  6   |   Média   |   Como cliente, quero acessar uma página de FAQ para tentar resolver dúvidas simples sem precisar abrir um chamado.|   2    |   ✅   |
+|  7   |   Média   |   Como cliente, quero acompanhar o status dos meus chamados para saber o andamento do atendimento.                 |   2    |   ✅   |
+|  8   |    Alta   |   Como atendente, quero escalonar um chamado para outro nível de suporte quando necessário.                        |   2    |   ✅   |
+|  9   |   Média   |   Como atendente, quero visualizar os chamados atribuídos ao meu setor para poder atender os clientes.             |   2    |   ✅   |
 |  10  |   Alta    |   Como administrador, quero gerenciar os usuários cadastrados para manter os dados atualizados no sistema.         |   3    |        |
 |  11  |   Média   |   Como administrador, quero gerenciar categorias de atendimento para organizar melhor os chamados.                 |   3    |        |
 |  12  |    Média  |   Como administrador, quero gerenciar setores de atendimento para direcionar corretamente os chamados.             |   3    |        |
@@ -69,6 +69,12 @@ O objetivo deste projeto é desenvolver uma plataforma mobile de Help Desk para 
 https://github.com/user-attachments/assets/45f3c7ed-a5e3-4b8c-a623-e67eac1bc4fd
 
 
+### Sprint 2
+
+
+
+
+https://github.com/user-attachments/assets/424b82d2-9031-4275-9c45-eb24a50c8a95
 
 
 ### Manual de Instalação
