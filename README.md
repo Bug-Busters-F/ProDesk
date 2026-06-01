@@ -81,6 +81,11 @@ https://github.com/user-attachments/assets/424b82d2-9031-4275-9c45-eb24a50c8a95
 
 ### Sprint 3
 
+
+https://github.com/user-attachments/assets/08d9d7ad-9aa2-4a49-a741-156b113a702a
+
+
+
 ### Manual de Instalação
 
 Acesse o manual de instalação seguindo os passos pelo arquivo [CONTRIBUTING.md](./CONTRIBUTING.md)
